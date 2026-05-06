@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-w4np54.privatetalks.online/sitemap.xml
